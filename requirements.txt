@@ -1,0 +1,7 @@
+requests
+PyPDF2
+pillow
+ddddocr
+pymongo
+certifi
+flask
